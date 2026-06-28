@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "layers": [
+    {
+      "name": "Infrastructure",
+      "description": "External service clients and adapters",
+      "modulePatterns": [
+        "_internal.*"
+      ]
+    }
+  ],
+  "rules": []
+}
