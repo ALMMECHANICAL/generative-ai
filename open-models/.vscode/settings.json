@@ -47,7 +47,6 @@
     "workbench.editor.alwaysShowEditorActions": true,
     "workbench.editor.centeredLayoutFixedWidth": true,
     "workbench.editor.closeOnFileDelete": true,
-    "accessibility.signalOptions.debouncePositionChanges": true
     "accessibility.signalOptions.debouncePositionChanges": true,
     "profunc.pythonPath": "c:\\Users\\DevToolsUser\\Documents\\Obsidian VAULTS\\Google Cloud\\generative-ai\\open-models\\.venv\\Lib\\site-packages\\pip-26.0.1.dist-info\\licenses\\src\\pip\\_vendor\\resolvelib"
 }
